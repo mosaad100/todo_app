@@ -1,0 +1,15 @@
+{
+"title" : "Todo App",
+"settings" : "Settings",
+"task" : "Task",
+"language" : "Language",
+"mode" : "Mode",
+"dark" : "Dark",
+"light" : "Light",
+"delete" : "Delete",
+"addtask" : "Add New Task",
+"title_" : "Title",
+"desc" : "Description",
+"date" : "Select Date",
+"add" : "Add Task"
+}

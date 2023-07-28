@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26054747180",
+    "project_id": "todo-app-9843c",
+    "storage_bucket": "todo-app-9843c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26054747180:android:1ad497b1c2e1f4b45d1d89",
+        "android_client_info": {
+          "package_name": "com.example.lotti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26054747180-n9u73bgn5fdei7nn73vf2blprrv9nfah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT7-hnzcHf9w9FRGYZ-o9tB0_IxfOUGww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26054747180-n9u73bgn5fdei7nn73vf2blprrv9nfah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
